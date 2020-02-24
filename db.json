@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Ashutosh",
+      "lastName": "K",
+      "email": "ashutosh.kapile@gmail.com",
+      "mobile": "7798981353",
+      "role": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "name": "Trupti",
+      "lastName": "K",
+      "email": "trupti.kapile@gmail.com",
+      "mobile": "7798981354",
+      "role": "customer",
+      "password": "customer"
+    },
+    {
+      "id": 3,
+      "name": "Dhobi lountry",
+      "lastName": "K",
+      "email": "dl@gmail.com",
+      "mobile": "12345678",
+      "role": "franchise"
+    },
+    {
+      "firstName": "ashutosh",
+      "lastName": "k",
+      "email": "zz@asa.com",
+      "password": "1111111",
+      "confirmPassword": "1111111",
+      "mobile": "7878787878",
+      "id": 4
+    },
+    {
+      "firstName": "llll",
+      "lastName": "jjjjj",
+      "email": "a@a.com",
+      "password": "111111",
+      "confirmPassword": "111111",
+      "mobile": "789888888899",
+      "role": "customer",
+      "id": 5
+    }
+  ]
+}
